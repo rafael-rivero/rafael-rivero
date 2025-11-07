@@ -1,6 +1,6 @@
 # Welcome!
 
-This project is part of my ongoing exploration of full-stack development, low-level programming, emulator development, and creative tools. I’m building things from scratch—sometimes for nostalgia, sometimes for the challenge, always to learn. Expect rough edges, but lots of care behind the code.
+I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic progression arc of a solid software developer) repository. While I have a long way to go, I learn from my mistakes quickly, and will be pushing more code, now with a wiser, even-handed approach to using LLMs as a learning tool. So, expect frequent changes to this README, as my personal projects focus changes with the wind. I will continue with the fun, low-level programming and emulation projects, but they don't put food on the table, so I'll see what that newfangled AI stuff is all about...
 
 > *“I move fast to explore, then go deep to refine.”*
 
