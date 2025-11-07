@@ -81,7 +81,7 @@ Web: `HTML/CSS`
 
 ---
 
-### 📘 Actively Learning
+### 📘 Casually Learning
 
 🕹️ **Low-Level & Retro Systems**  
 - `6502 ASM` – Atari VCS, NES  
@@ -96,13 +96,14 @@ Web: `HTML/CSS`
 - `Linear Algebra` – transformations, rendering, geometry  
 - `Calculus` – curves, motion, systems modeling
 
+There's a game in there somewhere in my future, but for now, I'll level up on these skills and won't shy away from using frameworks to get things going. Knowing myself, I will always optimize for performance even if it breaks the game for a while.
 ---
 
 ### 📬 Let’s Connect
 
-- Open to opportunities where an exchange of good ideas results in breakthroughs, especially when learning from failure
-- Prefer work where I can explore, refine, and contribute long-term  
-- I learn by doing, but retention really picks up when teaching
+- Open to opportunities where the mundane results in breakthroughs not immediately marketable, but are real, teachable moments that build valuable niche knowledge
+- Prefer work where I can explore, refine, and contribute long-term, but having that production-ready pressure needs to be there
+- I learn by doing, but retention really picks up when teaching others
 
 ---
 ![bottom_banner](https://github.com/user-attachments/assets/5088fdc6-4a1e-4464-949b-2f30e3b101fe)
