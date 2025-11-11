@@ -21,7 +21,7 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
   <img src="https://img.shields.io/badge/Soundcard_Project-8--bit_audio_orchestration-ff6f00?style=for-the-badge&logo=soundcore&logoColor=white&labelColor=0d47a1" alt="Soundcard Project Badge" />
   </a>
   <a href="https://github.com/rafael-rivero">
-    <img src="https://img.shields.io/badge/Profile-facbonum-lightgrey?style=for-the-badge&logo=github" alt="GitHub Profile Badge" />
+    <img src="https://img.shields.io/badge/Profile-rafael-rivero-lightgrey?style=for-the-badge&logo=github" alt="GitHub Profile Badge" />
   </a>
 
 </p>
