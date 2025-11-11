@@ -91,14 +91,16 @@ Web: `HTML/CSS`
 - `Linear Algebra` – transformations, rendering, geometry  
 - `Calculus` – curves, motion, systems modeling
 
-There's a game in there somewhere in my future, but for now, I'll level up on these skills and won't shy away from using frameworks to get things going. Knowing myself, I will always optimize for performance even if it breaks the game for a while.
+- There's a never-before-seen retro-homage indie title in there somewhere in the future.
 ---
 
 ### 📬 Let’s Connect
 
-- Open to opportunities where the mundane results in breakthroughs may not be immediately marketable, but produce real, teachable moments that build valuable niche knowledge
-- Prefer work where I can explore, refine, and contribute long-term, but having that production-ready pressure needs to be there, or else my heart isn't into it
-- I learn by doing, but retention really picks up when teaching others
+- Open to indie game collabs.
+- Startup opportunities where breakthroughs may not be immediately palpable, but produce real, competitive momentum.
+- Prefer work where I can break the rules (in a sandbox, of course), refine, and repeat.
+- Production-ready pressure needs to be there, or else my heart isn't into it.
+- I learn by teaching.
 
 ---
 <img src="https://github.com/user-attachments/assets/39cf62f2-a97f-435f-8e71-7aeba6f7d110" alt="Bottom Banner" width="40%"/>
