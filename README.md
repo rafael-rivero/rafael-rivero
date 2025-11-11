@@ -23,15 +23,6 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
 
 ---
 
-### 🔧 Projects I’m Exploring
-
-- 🎮 **Godot Platformer** – A Mario Bros–style prototype with patrolling enemies, screen wrap, and custom mechanics using `CharacterBody3D`
-- 🖌️ **Paint App** – Basic drawing app made in Pygame, and in other languages in the future (NES/SMS palettes)
-- 📐 **Math Playground** – Visual experiments in vector math, planes, and calculus
-- 💾 **Atari/NES Programming** – Studying 6502 architecture with a long-term goal of building for real hardware
-
----
-
 ### 🧩 Featured Projects
 
 <table>
@@ -59,12 +50,14 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
 
 ---
 
-### 🔍 What I’m Into
+### 🔍 What Gets Me Out of Bed Each Morning
 
-- Fast prototyping → focused deep work, rinse and repeat
-- Learning by building (and disassembling)  
-- Systems thinking, creative tools, visual storytelling  
-- Staying humble, teachable, and anti-hype  
+- Deep work that connects to a dignified human need, or scrap it.
+- Learning by breaking (software and ideas).
+- Visual storytelling, better user experiences everywhere.
+- Striving for actual humility, the truth about myself, which in practice means give to receive.
+- Innovative game mechanics.
+- There's a never-before-seen retro-homage indie title in there somewhere in my future. Skill issue, yeah yeah, but it won't be long.
 
 ---
 
@@ -90,8 +83,6 @@ Web: `HTML/CSS`
 📐 **Math & Visualizations**  
 - `Linear Algebra` – transformations, rendering, geometry  
 - `Calculus` – curves, motion, systems modeling
-
-- There's a never-before-seen retro-homage indie title in there somewhere in the future.
 ---
 
 ### 📬 Let’s Connect
