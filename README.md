@@ -20,7 +20,7 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
   <a href="https://github.com/facbonum/soundcard">
   <img src="https://img.shields.io/badge/Soundcard_Project-8--bit_audio_orchestration-ff6f00?style=for-the-badge&logo=soundcore&logoColor=white&labelColor=0d47a1" alt="Soundcard Project Badge" />
   </a>
-  <a href="https://github.com/facbonum">
+  <a href="https://github.com/rafael-rivero">
     <img src="https://img.shields.io/badge/Profile-facbonum-lightgrey?style=for-the-badge&logo=github" alt="GitHub Profile Badge" />
   </a>
 
@@ -101,8 +101,8 @@ There's a game in there somewhere in my future, but for now, I'll level up on th
 
 ### 📬 Let’s Connect
 
-- Open to opportunities where the mundane results in breakthroughs not immediately marketable, but are real, teachable moments that build valuable niche knowledge
-- Prefer work where I can explore, refine, and contribute long-term, but having that production-ready pressure needs to be there
+- Open to opportunities where the mundane results in breakthroughs may not be immediately marketable, but produce real, teachable moments that build valuable niche knowledge
+- Prefer work where I can explore, refine, and contribute long-term, but having that production-ready pressure needs to be there, or else my heart isn't into it
 - I learn by doing, but retention really picks up when teaching others
 
 ---
