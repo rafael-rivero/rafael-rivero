@@ -103,6 +103,6 @@ There's a game in there somewhere in my future, but for now, I'll level up on th
 - I learn by doing, but retention really picks up when teaching others
 
 ---
-<img src="https://github.com/user-attachments/assets/5088fdc6-4a1e-4464-949b-2f30e3b101fe" alt="Bottom Banner" width="100%" style="max-width: 300px;"/>
+<img src="https://github.com/user-attachments/assets/5088fdc6-4a1e-4464-949b-2f30e3b101fe" alt="Bottom Banner" width="60%""/>
 
 > Κύριε, ἐλέησον. Χριστέ, ἐλέησον.
