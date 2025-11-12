@@ -94,6 +94,6 @@ Web: `HTML/CSS`
 - I learn by teaching.
 
 ---
-<img src="https://github.com/user-attachments/assets/39cf62f2-a97f-435f-8e71-7aeba6f7d110" alt="Bottom Banner" width="40%"/>
-<img width="863" height="562" alt="Sega-Nomad-Retro-Gaming-Front-Main" src="https://github.com/user-attachments/assets/654a14cf-7d85-4e4e-a71d-66c11c13ae08" />
+<img src="https://github.com/user-attachments/assets/39cf62f2-a97f-435f-8e71-7aeba6f7d110" alt="TurboGrafx-16" width="40%"/>
+<img alt="Sega-Nomad-Retro-Gaming-Front-Main" src="https://github.com/user-attachments/assets/654a14cf-7d85-4e4e-a71d-66c11c13ae08" alt="Sega Nomad" width="30%"/>
 
