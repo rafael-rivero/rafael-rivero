@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic progression arc of a solid software developer) repository. While I have a long way to go, I learn from my mistakes quickly, and will be pushing more code, now with a wiser, even-handed approach to using LLMs as a learning tool. So, expect frequent changes to this README, as my personal projects focus changes with the wind. I will continue with the fun, low-level programming and emulation projects, but they don't put food on the table, so I'll see what that newfangled AI stuff is all about...
+I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic redemption arc of a failed software engineer) repository. I learn from my mistakes quickly, and will be pushing more code, now with a wiser, even-handed approach to using LLMs as a learning tool. So, expect frequent changes to this README, as my personal projects focus changes with the wind. I will continue with the fun, low-level programming and emulation projects, but they don't put food on the table, so I'll see what that newfangled AI stuff is all about...
 
 ---
 
@@ -57,11 +57,11 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
 - Visual storytelling, better user experiences everywhere.
 - Striving for actual humility, the truth about myself, which in practice means give to receive.
 - Innovative game mechanics.
-- There's a never-before-seen retro-homage indie title in there somewhere in my future. Skill issue, yeah yeah, but it won't be long.
+- There's a never-before-seen retro-homage indie game title in there somewhere in my future as a developer. Skill issue, yeah yeah, for now, but it won't be long.
 
 ---
 
-### 🛠️ Tech I Use (or Tinker With)
+### 🛠️ Tech Stack
 
 `C` · `C++` · `SDL` · `Godot` · `GDScript` · `C#` · `Git` · `Python` · `Lua` · `Elixir`
 Creative Tools: `Blender` · `Photoshop` · `Illustrator` · `Procreate (iOS)`
@@ -85,7 +85,7 @@ Web: `HTML/CSS`
 - `Calculus` – curves, motion, systems modeling
 ---
 
-### 📬 Let’s Connect
+### 📬 Contact
 
 - Open to indie game collabs.
 - Startup opportunities where breakthroughs may not be immediately palpable, but produce real, competitive momentum.
@@ -95,3 +95,5 @@ Web: `HTML/CSS`
 
 ---
 <img src="https://github.com/user-attachments/assets/39cf62f2-a97f-435f-8e71-7aeba6f7d110" alt="Bottom Banner" width="40%"/>
+<img width="863" height="562" alt="Sega-Nomad-Retro-Gaming-Front-Main" src="https://github.com/user-attachments/assets/654a14cf-7d85-4e4e-a71d-66c11c13ae08" />
+
