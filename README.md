@@ -95,5 +95,6 @@ Web: `HTML/CSS`
 
 ---
 <img src="https://github.com/user-attachments/assets/39cf62f2-a97f-435f-8e71-7aeba6f7d110" alt="TurboGrafx-16" width="40%"/>
+<img src="https://github.com/user-attachments/assets/040c584c-4053-4d71-8b64-f95ae3c632c0" alt="Dreamcast" width="40%"/>
 <img alt="Sega-Nomad-Retro-Gaming-Front-Main" src="https://github.com/user-attachments/assets/654a14cf-7d85-4e4e-a71d-66c11c13ae08" alt="Sega Nomad" width="30%"/>
 
