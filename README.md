@@ -43,7 +43,7 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
         <strong>Paint!</strong>
       </a>
       <br />
-      Simple pixel art tool built with Pygame and NES-inspired aesthetic.
+      Simple 2D drawing tool built with Pygame.
     </td>
   </tr>
 </table>
