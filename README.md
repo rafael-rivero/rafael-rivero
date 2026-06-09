@@ -1,7 +1,3 @@
-# Welcome!
-
-I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic redemption arc of a failed software engineer) repository. I learn from my mistakes quickly, and will be pushing more code, now with a wiser, even-handed approach to using LLMs as a learning tool. So, expect frequent changes to this README, as my personal projects focus changes with the wind. I will continue with the fun, low-level programming and emulation projects, but they don't put food on the table, so I'll see what that newfangled AI stuff is all about...
-
 ---
 
 <!-- Badges -->
@@ -23,7 +19,7 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -47,31 +43,15 @@ I'm Ralph, and welcome to my (what I hope eventually reflects a satisfying, epic
     </td>
   </tr>
 </table>
-
 ---
 
-### 🔍 What Gets Me Out of Bed Each Morning
-
-- Deep work that connects to a dignified human need, or scrap it.
-- Learning by breaking (software and ideas).
-- Visual storytelling, better user experiences everywhere.
-- Striving for actual humility, the truth about myself, which in practice means give to receive.
-- Innovative game mechanics.
-- There's a never-before-seen retro-homage indie game title in there somewhere in my future as a developer. Skill issue, yeah yeah, for now, but it won't be long.
-
----
-
-### 🛠️ Tech Stack
-
-`C` · `C++` · `SDL` · `Godot` · `GDScript` · `C#` · `Git` · `Python` · `Lua` · `Elixir`
+### Stack
+`C` · `C++` · `SDL` · `Godot` · `GDScript` · `Git` · `Python` · `Lua` · `Elixir`
 Creative Tools: `Blender` · `Photoshop` · `Illustrator` · `Procreate (iOS)`
 Web: `HTML/CSS`
 
 ---
-
-### 📘 Casually Learning
-
-🕹️ **Low-Level & Retro Systems**  
+**Low-Level & Classic Systems**  
 - `6502 ASM` – Atari VCS, NES  
 - `Z80 ASM` – Sega Master System, Game Gear  
 - `65816 ASM` – SNES  
@@ -80,18 +60,15 @@ Web: `HTML/CSS`
 - `V810 ASM` – Virtual Boy  
 - `SH-4 ASM` – Dreamcast
 
-📐 **Math & Visualizations**  
+**Math & Visualizations**  
 - `Linear Algebra` – transformations, rendering, geometry  
 - `Calculus` – curves, motion, systems modeling
 ---
 
-### 📬 Contact
+### Contact
 
-- Open to indie game collabs.
-- Startup opportunities where breakthroughs may not be immediately palpable, but produce real, competitive momentum.
-- Prefer work where I can break the rules (in a sandbox, of course), refine, and repeat.
-- Production-ready pressure needs to be there, or else my heart isn't into it.
-- I learn by teaching.
+- Open to collaborating in low-level projects
+- <a href="https://ralphr.carrd.co">https://ralphr.carrd.co</a>
 
 ---
 <img src="https://github.com/user-attachments/assets/39cf62f2-a97f-435f-8e71-7aeba6f7d110" alt="TurboGrafx-16" width="40%"/>
